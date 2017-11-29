@@ -1,0 +1,32 @@
+h1, h2, p {
+	text-align: center;
+	color: white;
+	font-family: Helvetica;
+}
+
+h1 {
+	font-size: 70px;
+}
+
+p {
+	font-size: 20px;
+}
+
+.gems {
+	margin: 0 auto;
+}
+
+#greenGem, #redGem, #blueGem, #purpleGem {
+	height: 200px;
+	width: 200px;
+	margin-left: 20px;
+}
+
+body {
+	background: #EB5757;
+background: -webkit-linear-gradient(to left, #000000, #EB5757);
+background: linear-gradient(to left, #000000, #EB5757);
+}
+
+
+
